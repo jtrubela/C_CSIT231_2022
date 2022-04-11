@@ -1,0 +1,38 @@
+PointA (x:5.70, y:9.30) and PointB (x:3.20, y:13.60)
+Distance between PointA and PointB is: 				4.97
+-----------------------------------------------------------------------
+PointA (x:5.70, y:9.30) and PointC (x:9.10, y:12.20)
+Distance between PointA and PointC is: 				4.47
+-----------------------------------------------------------------------
+PointA (x:5.70, y:9.30) and PointD (x:18.40, y:7.30)
+Distance between PointA and PointD is: 				12.86
+-----------------------------------------------------------------------
+PointB (x:3.20, y:13.60) and PointA (x:5.70, y:9.30)
+Distance between PointB and PointA is: 				4.97
+-----------------------------------------------------------------------
+PointB (x:3.20, y:13.60) and PointC (x:9.10, y:12.20)
+Distance between PointB and PointC is: 				6.06
+-----------------------------------------------------------------------
+PointB (x:3.20, y:13.60) and PointD (x:18.40, y:7.30)
+Distance between PointB and PointD is: 				16.45
+-----------------------------------------------------------------------
+PointC (x:9.10, y:12.20) and PointA (x:5.70, y:9.30)
+Distance between PointC and PointA is: 				4.47
+-----------------------------------------------------------------------
+PointC (x:9.10, y:12.20) and PointB (x:3.20, y:13.60)
+Distance between PointC and PointB is: 				6.06
+-----------------------------------------------------------------------
+PointC (x:9.10, y:12.20) and PointD (x:18.40, y:7.30)
+Distance between PointC and PointD is: 				10.51
+-----------------------------------------------------------------------
+PointD (x:18.40, y:7.30) and PointA (x:5.70, y:9.30)
+Distance between PointD and PointA is: 				12.86
+-----------------------------------------------------------------------
+PointD (x:18.40, y:7.30) and PointB (x:3.20, y:13.60)
+Distance between PointD and PointB is: 				16.45
+-----------------------------------------------------------------------
+PointD (x:18.40, y:7.30) and PointC (x:9.10, y:12.20)
+Distance between PointD and PointC is: 				10.51
+-----------------------------------------------------------------------
+Closest points:  point PointA and point PointC - distance:  	4.47
+Furthest points: point PointB and point PointD - distance: 	16.45
