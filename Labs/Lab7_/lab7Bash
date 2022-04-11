@@ -1,0 +1,3 @@
+#! bin/bash/
+gcc lab7.c -o lab7 -lm
+./lab7 15
